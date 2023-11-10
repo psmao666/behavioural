@@ -1,8 +1,11 @@
 # My behavioural question answers
 
+# Table of contents
+1. [Problem Solving - What was the most difficult bug you have encoutered and how did you fix it?](#problem_solving_1)
+
 ## Problem Solving
 
-### What was the most difficult bug you have encountered and how did you fix it?
+### What was the most difficult bug you have encountered and how did you fix it? <a name="problem_solving_1"></a>
 
 #### Situation
 In my previous project of the web crawler, I was working on a new feature that was designed to improve the crawling speed.
