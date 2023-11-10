@@ -1,7 +1,7 @@
 # My behavioural question answers
 
 # Table of contents
-1. Problem Solving - What was the most difficult bug you have encoutered and how did you fix it?(#problem_solving_1)
+1. [What was the most difficult bug you have encoutered and how did you fix it?](#problem_solving_1)
 
 ## Problem Solving
 
