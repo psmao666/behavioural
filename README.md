@@ -28,6 +28,7 @@ ensure the bug is fixed and no additional bug was introduced after the fix.
 #### Reflection
 This experience taught me a lot about the importance of thorough and methodical testing and debugging, and how crucial it is to 
 keep up-to-date with modern technology.
+
 ---
 
 ### Tell me about a time you found a creative solution to a problem? <a name="problem_solving_2"></a>
