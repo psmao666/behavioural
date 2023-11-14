@@ -3,6 +3,7 @@
 # Table of contents
 1. [What was the most difficult bug you have encoutered and how did you fix it?](#problem_solving_1)
 2. [Tell me about a time you found a creative solution to a problem?](#problem_solving_2)
+3. [What is the biggest challenge you have encountered in your projects?](#problem_solving_3)
 
 ## Problem Solving
 
@@ -52,3 +53,24 @@ problem.
 #### Reflection
 This experience taught me a great deal about the value of thinking outside the box and the importance of examining the risks and potential bugs while introducing 
 new approach.
+
+---
+
+### What is the biggest challenge you have encountered in your projects? <a name="problem_solving_3"></a>
+
+#### Situation
+It was an web application project in my university, I teamed up with three other colleagues, two of them are responsible for frontend, me and the other are responsible for
+backend. 
+#### Task
+We used Python and back at that time I only knew a few about Python, and literally nothing about web application development, so it was a big challenge for me to
+learn these knowledge while not falling behind on our project schedule.
+#### Action
+In order to deliver my work both in time and with high quality, I firstly spent my leisure time and weekends on learning Python and checking through the sample codes in the internet. 
+Then I carefully written a lot of tests before I started coding, and ensure my code was correct by running through the tests. The other friend who worked with me for the backend, was 
+really professional on Python, so I usually pre-book a time slot with him when he was free, for a code review on my part and possibly pair-coding, every session I got the chance to 
+improved my code and enhanced my understanding about backend development for web application.
+#### Result
+After the tight collaboration with teammates, we were able to finish the project not only in time, but also scored 98/100 for the final presentation.
+#### Reflection
+This experience taught me a great deal about the value of learning new knowledge, the importance of keeping a broad knowledge set and how crucial it is to work collaborately and learn
+from others.
