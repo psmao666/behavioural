@@ -3,7 +3,7 @@
 # Table of contents
 1. [What was the most difficult bug you have encoutered and how did you fix it?](#problem_solving_1)
 2. [Tell me about a time you found a creative solution to a problem?](#problem_solving_2)
-3. [What is the biggest challenge you have encountered in your projects?](#problem_solving_3)
+3. [What was the biggest challenge you have encountered in your projects?](#problem_solving_3)
 
 ## Problem Solving
 
@@ -56,7 +56,7 @@ new approach.
 
 ---
 
-### What is the biggest challenge you have encountered in your projects? <a name="problem_solving_3"></a>
+### What was the biggest challenge you have encountered in your projects? <a name="problem_solving_3"></a>
 
 #### Situation
 It was an web application project in my university, I teamed up with three other colleagues, two of them are responsible for frontend, me and the other are responsible for
